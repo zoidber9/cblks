@@ -6,9 +6,9 @@ int max (int A[], int n)
     int x = A[0];
     for(i=0;i<n;i++)
     {
-        if(A[i] < x)
+        if(A[i] > x)
         {
-            A[i] == x;
+            x = A[i];
         }
     }
     return x;
