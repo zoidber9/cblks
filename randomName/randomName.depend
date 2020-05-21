@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590090849 source:/home/zoidberg/codeblocks/cblks/randomName/main.c
+	<stdio.h>
+	<stdlib.h>
+
